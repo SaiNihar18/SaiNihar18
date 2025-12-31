@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="walter.gif" alt="GIF" width="300" />
+  <img src="walter.gif" alt="GIF" width="500" />
 </p>
 
 # 💫 About Me:
