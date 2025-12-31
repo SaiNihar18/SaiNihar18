@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="walter.gif" alt="GIF" width="300" />
+</p>
+
 # 💫 About Me:
 Aspiring Data Scientist driven by curiosity for data and machine learning, with a strong focus on learning through hands-on projects and practical applications. I actively work on strengthening my problem-solving abilities through data structures and algorithms, aiming to build efficient and meaningful real-world solutions powered by data.
 
